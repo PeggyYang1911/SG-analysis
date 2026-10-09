@@ -1,0 +1,5 @@
+# Normalise line endings so the code works the same on Windows and macOS.
+* text=auto eol=lf
+*.py   text eol=lf
+*.ijm  text eol=lf
+*.md   text eol=lf

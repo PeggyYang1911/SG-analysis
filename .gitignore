@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Analysis outputs / data (keep code only, not results or raw data)
+*.csv
+*.xlsx
+*.png
+*.svg
+*.pdf
+*.tif
+*.tiff
+*.lif
+*.zip
+5slices_subset/
+*slices_subset/
+
+# OS cruft
+.DS_Store
+Thumbs.db
